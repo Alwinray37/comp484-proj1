@@ -4,8 +4,10 @@ The purpose of this project is to create a personal site about one of your inter
 include but are not limited to: favorite movie, show, book, artist, band, genre, sport, team,
 person, place to visit, etc. I have chosen to create a site about Volleyball. 
 
-### File Structure: 
+### Website link:
+https://alwinray37.github.io/comp484-proj1/
 
+### File Structure:  
 ```
 comp484-proj1/
 ├── index.html          # Main landing page
