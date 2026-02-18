@@ -7,7 +7,7 @@ person, place to visit, etc. I have chosen to create a site about Volleyball.
 ### Website link:
 https://alwinray37.github.io/comp484-proj1/
 
-### File Structure:  
+### File Structure:  git a
 ```
 comp484-proj1/
 ├── index.html          # Main landing page
